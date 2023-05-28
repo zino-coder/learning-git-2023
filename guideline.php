@@ -1,5 +1,3 @@
 <?php
-// git init
-// git status
-// git add 
-// git commit
+// git branch + checkout
+// git merge rebase
