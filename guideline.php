@@ -1,3 +1,5 @@
 <?php
-// git branch + checkout
-// git merge rebase
+// git restore
+// git reset --soft
+// git reset --mixed
+// git reset --hard
