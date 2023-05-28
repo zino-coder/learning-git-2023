@@ -8,4 +8,4 @@ Nội dung này phải được commit trong commit thứ 3
 
 Tạo thêm dòng chữ này và amend vào commit cũ
 
-Tôi đang ở feature-b
+Tôi đang ở Branch Feature A
